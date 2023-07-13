@@ -1,1 +1,1 @@
-require("mongoose").connect("mongodb://0.0.0.0:27017/tss2");
+require("mongoose").connect("mongodb+srv://dikshit:NSfO1WoxTKLYkv6O@cluster0.ryxdhyr.mongodb.net/");
