@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.1bb3d75b.css","mappings":"AAAA,+BACI,aAAc,CACd,YACJ","sources":["modules/admin/components/Header/Header.css"],"sourcesContent":[".dropdown:hover .dropdown-menu {\r\n    display: block;\r\n    margin-top: 0; \r\n}"],"names":[],"sourceRoot":""}
